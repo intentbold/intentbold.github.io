@@ -1,0 +1,35 @@
+
+ 
+ 
+ 
+ /* Custom CSS to make the navbar transparent */
+ .navbar {
+    background-color: transparent !important; /* Important to override Bootstrap's styles */
+}
+
+.navbar-light .navbar-toggler {
+color: rgba(0,0,0,.55);
+border-color: rgba(0,0,0,.1);
+background-color: white;
+}
+
+body {
+    background-color: #020c1f !important;
+}
+
+
+.logo-img {
+    width: 80%;
+}
+
+.intent-blue {
+    color: #145ba1;
+}
+
+.bold-red {
+    color: #a62a28;
+}
+
+bg-nav-color {
+    background-color: red;
+}
